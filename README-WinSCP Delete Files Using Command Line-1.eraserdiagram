@@ -1,0 +1,28 @@
+flowchart-diagram
+
+title WinSCP Delete Files Using Command Line
+
+// Prerequisites
+Start [shape: oval, icon: play-circle] > Check WinSCP Installation [shape: rectangle, icon: check-square]
+Check WinSCP Installation > WinSCP Installed? [shape: diamond, icon: check-square]
+WinSCP Installed? > Edit Batch File [shape: rectangle, icon: edit]: Yes
+WinSCP Installed? > Install WinSCP [shape: rectangle, icon: download]: No
+Install WinSCP > End [shape: oval, icon: stop-circle]
+
+// Usage
+Edit Batch File > Replace Placeholders [shape: rectangle, icon: edit-2]
+Replace Placeholders > Save Batch File [shape: rectangle, icon: save]
+Save Batch File > Run Delete.bat [shape: rectangle, icon: play]
+Run Delete.bat > Connect to FTP Server [shape: rectangle, icon: server]
+Connect to FTP Server > Delete Files [shape: rectangle, icon: trash-2]
+Delete Files > Create Log File [shape: rectangle, icon: file-text]
+Create Log File > End [shape: oval, icon: stop-circle]
+
+// Notes
+Start [shape: oval, icon: play-circle] > Handle Sensitive Info [shape: rectangle, icon: lock]
+Handle Sensitive Info > Check WinSCP Path [shape: rectangle, icon: folder]
+Check WinSCP Path > Default Path? [shape: diamond, icon: folder]
+Default Path? > Update Script Path [shape: rectangle, icon: edit]: No
+Default Path? > End [shape: oval, icon: stop-circle]: Yes
+Update Script Path > End [shape: oval, icon: stop-circle]
+
