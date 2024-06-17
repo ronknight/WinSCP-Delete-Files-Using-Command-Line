@@ -2,6 +2,20 @@
 
 # [﻿WinSCP Delete Files Using Command Line](https://github.com/ronknight/WinSCP-Delete-Files-Using-Command-Line) 
 #### This script is a batch file (`Delete.bat`) that uses the WinSCP command-line tool to connect to an FTP server and delete all files that start with "backup" in the remote directory.
+
+<p align="center">
+<a href="https://twitter.com/PinoyITSolution"><img src="https://img.shields.io/twitter/follow/PinoyITSolution?style=social"></a>
+<a href="https://github.com/ronknight?tab=followers"><img src="https://img.shields.io/github/followers/ronknight?style=social"></a>
+<a href="https://github.com/ronknight/ronknight/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+<a href="https://github.com/ronknight/ronknight/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+  <a href="https://youtube.com/@PinoyITSolution"><img src="https://img.shields.io/youtube/channel/subscribers/UCeoETAlg3skyMcQPqr97omg"></a>
+<a href="https://github.com/ronknight/WinSCP-Delete-Files-Using-Command-Line/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/ronknight/WinSCP-Delete-Files-Using-Command-Line/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+<a href="#"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
+<a href="https://github.com/ronknight"><img src="https://img.shields.io/badge/Made%20with%20%F0%9F%A4%8D%20by%20-%20Ronknight%20-%20red"></a>
+</p>
+
+ 
  [﻿Prerequisites](#prerequisites) • [﻿Usage](#usage) • [﻿Notes](#notes) • [﻿Diagrams](#diagrams) • 
 
 ---
